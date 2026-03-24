@@ -58,7 +58,7 @@ npm start
 1. Set nomor WhatsApp yang ingin dipairing:
 
 ```bash
-$env:PAIRING_NUMBER="6281311923803"
+$env:PAIRING_NUMBER="6281234567890"
 ```
 
 2. Jalankan bot:
