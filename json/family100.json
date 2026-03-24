@@ -1,0 +1,22 @@
+[
+  {
+    "soal": "Sebutkan hal yang biasa dibawa saat pergi ke sekolah",
+    "jawaban": ["tas", "buku", "pensil", "pulpen", "bekal", "botol minum"]
+  },
+  {
+    "soal": "Sebutkan makanan yang sering dimakan saat sarapan",
+    "jawaban": ["nasi goreng", "roti", "mi", "bubur", "telur", "susu"]
+  },
+  {
+    "soal": "Sebutkan benda yang ada di kamar tidur",
+    "jawaban": ["kasur", "lemari", "bantal", "selimut", "meja", "lampu"]
+  },
+  {
+    "soal": "Sebutkan aplikasi yang sering dipakai di HP",
+    "jawaban": ["whatsapp", "youtube", "instagram", "tiktok", "facebook", "telegram"]
+  },
+  {
+    "soal": "Sebutkan cita-cita yang sering diinginkan anak-anak",
+    "jawaban": ["dokter", "guru", "polisi", "tentara", "pilot", "chef"]
+  }
+]

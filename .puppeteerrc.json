@@ -1,0 +1,4 @@
+{
+  "cacheDirectory": ".puppeteer-cache",
+  "temporaryDirectory": ".puppeteer-tmp"
+}
